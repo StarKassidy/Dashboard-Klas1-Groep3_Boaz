@@ -1,0 +1,61 @@
+,dag,image,max_temp,min_temp,windbft,windkmh,windknp,windms,windrgr,windr,neersl_perc_dag,zond_perc_dag,plaats
+0,05-03-2025,halfbewolkt,14,6,2,10,6,3,227,ZW,0,61,Assen
+1,06-03-2025,halfbewolkt,15,4,3,14,8,4,206,Z,0,56,Assen
+2,07-03-2025,halfbewolkt,16,6,3,14,8,4,189,Z,0,61,Assen
+3,08-03-2025,halfbewolkt,15,6,3,14,8,4,162,ZO,0,61,Assen
+4,09-03-2025,halfbewolkt,14,5,2,10,6,3,143,ZO,0,60,Assen
+5,05-03-2025,halfbewolkt,14,7,3,14,8,4,216,ZW,0,62,Lelystad
+6,06-03-2025,halfbewolkt,14,5,3,14,8,4,200,Z,0,53,Lelystad
+7,07-03-2025,halfbewolkt,16,6,3,14,8,4,185,Z,0,59,Lelystad
+8,08-03-2025,halfbewolkt,15,6,2,10,6,3,161,ZO,0,61,Lelystad
+9,09-03-2025,halfbewolkt,15,6,2,10,6,3,146,ZO,0,53,Lelystad
+10,05-03-2025,halfbewolkt,9,6,3,14,8,4,238,ZW,0,62,Leeuwarden
+11,06-03-2025,halfbewolkt,10,5,3,14,8,4,208,Z,0,57,Leeuwarden
+12,07-03-2025,halfbewolkt,10,6,3,18,10,5,190,Z,0,59,Leeuwarden
+13,08-03-2025,halfbewolkt,9,6,3,18,10,5,164,ZO,0,62,Leeuwarden
+14,09-03-2025,halfbewolkt,9,5,3,14,8,4,144,ZO,0,57,Leeuwarden
+15,05-03-2025,halfbewolkt,14,8,2,10,6,3,217,ZW,0,62,Arnhem
+16,06-03-2025,halfbewolkt,15,5,3,14,8,4,199,Z,0,52,Arnhem
+17,07-03-2025,halfbewolkt,17,6,2,10,6,3,182,Z,0,59,Arnhem
+18,08-03-2025,halfbewolkt,16,6,2,10,6,3,158,ZO,0,60,Arnhem
+19,09-03-2025,halfbewolkt,16,6,2,10,6,3,142,ZO,0,51,Arnhem
+20,05-03-2025,halfbewolkt,14,6,2,10,6,3,227,ZW,0,61,Groningen
+21,06-03-2025,halfbewolkt,15,4,3,14,8,4,206,Z,0,56,Groningen
+22,07-03-2025,halfbewolkt,16,6,3,14,8,4,189,Z,0,61,Groningen
+23,08-03-2025,halfbewolkt,15,6,3,14,8,4,162,ZO,0,61,Groningen
+24,09-03-2025,halfbewolkt,14,5,2,10,6,3,143,ZO,0,60,Groningen
+25,05-03-2025,halfbewolkt,14,6,2,10,6,3,194,Z,0,62,Maastricht
+26,06-03-2025,halfbewolkt,15,4,2,10,6,3,180,Z,0,57,Maastricht
+27,07-03-2025,halfbewolkt,16,5,2,10,6,3,170,Z,0,57,Maastricht
+28,08-03-2025,halfbewolkt,16,5,2,10,6,3,162,ZO,0,58,Maastricht
+29,09-03-2025,halfbewolkt,16,5,2,10,6,3,152,ZO,0,39,Maastricht
+30,05-03-2025,halfbewolkt,15,7,2,10,6,3,209,Z,0,62,Eindhoven
+31,06-03-2025,halfbewolkt,16,5,3,14,8,4,193,Z,0,55,Eindhoven
+32,07-03-2025,halfbewolkt,17,6,3,14,8,4,180,Z,0,55,Eindhoven
+33,08-03-2025,halfbewolkt,17,6,2,10,6,3,162,ZO,0,55,Eindhoven
+34,09-03-2025,halfbewolkt,16,6,2,10,6,3,144,ZO,0,40,Eindhoven
+35,05-03-2025,halfbewolkt,7,6,3,18,10,5,219,ZW,0,62,Den Helder
+36,06-03-2025,halfbewolkt,9,7,3,18,10,5,201,Z,0,58,Den Helder
+37,07-03-2025,halfbewolkt,11,7,3,18,10,5,183,Z,0,52,Den Helder
+38,08-03-2025,halfbewolkt,11,7,3,18,10,5,159,ZO,0,61,Den Helder
+39,09-03-2025,halfbewolkt,10,6,3,18,10,5,140,ZO,0,52,Den Helder
+40,05-03-2025,halfbewolkt,14,7,3,14,8,4,211,Z,0,61,Enschede
+41,06-03-2025,halfbewolkt,15,4,3,14,8,4,201,Z,0,56,Enschede
+42,07-03-2025,halfbewolkt,16,7,3,14,8,4,185,Z,0,61,Enschede
+43,08-03-2025,halfbewolkt,16,6,2,10,6,3,160,ZO,0,61,Enschede
+44,09-03-2025,halfbewolkt,16,6,2,10,6,3,142,ZO,0,52,Enschede
+45,05-03-2025,halfbewolkt,14,7,2,10,6,3,212,Z,0,62,Amersfoort
+46,06-03-2025,halfbewolkt,15,5,3,14,8,4,197,Z,0,57,Amersfoort
+47,07-03-2025,halfbewolkt,17,6,3,14,8,4,182,Z,0,61,Amersfoort
+48,08-03-2025,halfbewolkt,16,6,3,14,8,4,159,ZO,0,57,Amersfoort
+49,09-03-2025,halfbewolkt,15,6,3,14,8,4,142,ZO,0,47,Amersfoort
+50,05-03-2025,halfbewolkt,14,8,2,10,6,3,200,Z,0,63,Middelburg
+51,06-03-2025,halfbewolkt,15,6,3,14,8,4,188,Z,0,56,Middelburg
+52,07-03-2025,halfbewolkt,16,7,3,18,10,5,177,Z,0,56,Middelburg
+53,08-03-2025,halfbewolkt,17,7,3,14,8,4,161,ZO,0,43,Middelburg
+54,09-03-2025,halfbewolkt,16,7,3,14,8,4,145,ZO,0,37,Middelburg
+55,05-03-2025,halfbewolkt,12,8,3,14,8,4,205,Z,0,63,Rotterdam
+56,06-03-2025,halfbewolkt,13,6,3,14,8,4,191,Z,0,54,Rotterdam
+57,07-03-2025,halfbewolkt,14,7,3,14,8,4,181,Z,0,58,Rotterdam
+58,08-03-2025,halfbewolkt,14,7,3,14,8,4,160,ZO,0,46,Rotterdam
+59,09-03-2025,halfbewolkt,14,7,3,14,8,4,146,ZO,0,40,Rotterdam
